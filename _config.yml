@@ -1,0 +1,10 @@
+# Site settings
+title: Resume
+#a#uthor:
+  #name: Vedang 
+  #email: your-email@domain.com
+#description: "Great site about Jekyll on GH-Pages."
+logo: Vedang.png
+show_downloads: true
+# Build setting
+theme: jekyll-theme-minimal
